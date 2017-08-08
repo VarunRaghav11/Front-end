@@ -1,0 +1,5 @@
+var firstName=prompt("Enter your First name ")
+var lastName=prompt("Enter your Last name ")
+var age=prompt("What is your age?")
+console.log("Your name is " + firstName + " " + lastName)
+console.log("You are " + age + " years old.")
